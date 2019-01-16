@@ -304,7 +304,7 @@ enableGitInfo = false
 [[menu.main]]
   name = "Publications"
   url = "#publications_selected"
-  weight = 2
+  weight = 0
 
 [[menu.main]]
   name = "Posts"
@@ -314,7 +314,7 @@ enableGitInfo = false
 [[menu.main]]
   name = "Projects"
   url = "#projects"
-  weight = 4
+  weight = 0
 
 [[menu.main]]
   name = "Tutorials"
