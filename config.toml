@@ -55,7 +55,6 @@ enableGitInfo = false
   # Your details.
   name = "Peter D.R. Higgins"
   role = "Professor Gastroenterology"
-  description = "Thoughts on Reproducible Medical Research with R"
   navbarTitle = "RMRWR"
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -118,7 +117,7 @@ enableGitInfo = false
   font = "playfair"
 
   # Description for social sharing and search engines. If undefined, author role is used in place.
-  description = ""
+  description = "Thoughts on Reproducible Medical Research with R"
 
   # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
   sharing_image = ""
